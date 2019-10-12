@@ -1,17 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my own pages
 
-You can use the [editor on GitHub](https://github.com/amywangyx/interestingstats/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 概率题一览
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-###概率题一览
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 古典概率简单版
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
+#排列组合
 ## Header 2
 ### Header 3
 
